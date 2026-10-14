@@ -1,0 +1,4 @@
+Selenium
+webdriver-manager
+rapidfuzz
+openpyxl
